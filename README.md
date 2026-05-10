@@ -1,5 +1,5 @@
 # who made this?
-it was made by <a href="https://replit.com/@Daisreich">Daisreich</a>, but i still fixed some stuff
+it was made by <a href="https://replit.com/@Daisreich">Daisreich</a>. but i still fixed some stuff
 # mespeak-engine
 A TTS API that uses mespeak to generate files and send them through the Express server, which is used in <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2693835351">BonziWORLD 3D</a> (a Garry's Mod workshop addon) and other platforms.
 
@@ -23,6 +23,6 @@ First, if you have Git Bash installed, type this in the console
 ```
 git clone https://github.com/grapemen/mespeak-engine
 cd mespeak-engine
+node index.js or index2.js
 ```
-
 And that's the tutorial. Simple and easy.
