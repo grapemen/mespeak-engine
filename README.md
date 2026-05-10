@@ -1,3 +1,5 @@
+# who made this?
+it was made by <a href="https://replit.com/@Daisreich">Daisreich</a>, but i still fixed some stuff
 # mespeak-engine
 A TTS API that uses mespeak to generate files and send them through the Express server, which is used in <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2693835351">BonziWORLD 3D</a> (a Garry's Mod workshop addon) and other platforms.
 
